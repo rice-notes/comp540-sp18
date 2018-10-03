@@ -1,0 +1,9 @@
+{
+    "root": ".",
+    "title": "COMP540: Statistical Machine Learning",
+    "description": "Notes from the Spring 2018 offering of COMP540 at Rice University.",
+    "author": "Gabriel Vacaliuc",
+    "plugins": [
+        "katex"
+    ]
+}
