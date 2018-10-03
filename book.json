@@ -1,9 +1,16 @@
 {
-    "root": ".",
+    "root": "src",
     "title": "COMP540: Statistical Machine Learning",
     "description": "Notes from the Spring 2018 offering of COMP540 at Rice University.",
     "author": "Gabriel Vacaliuc",
     "plugins": [
-        "katex"
-    ]
+        "katex",
+        "edit-link"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+          "base": "https://github.com/rice-notes/stat616-sp18/tree/master/src",
+          "label": "edit"
+        }
+    }
 }
